@@ -1,4 +1,4 @@
-import sys
+import sys         #System-specific parameters and functions import
 
 
 if __name__ == '__main__':
